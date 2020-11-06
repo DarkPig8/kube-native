@@ -1,5 +1,5 @@
 DTR:
-  FQDN: <de-master public DNS>
+  FQDN: ec2-3-120-246-158.eu-central-1.compute.amazonaws.com
   port: 4443
 
 DB:
